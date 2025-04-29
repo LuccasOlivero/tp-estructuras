@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Estudio\\source\\repos\\test-clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|d:\\visual estudio\\source\\repos\\test-clases\\test-clases\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|solutionrelative:test-clases\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|d:\\visual estudio\\source\\repos\\test-clases\\test-clases\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|solutionrelative:test-clases\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|d:\\visual estudio\\source\\repos\\test-clases\\test-clases\\clasecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4E235D86-3E2C-4470-97F4-4E227DDB9B79}|test-clases\\test-clases.vbproj|solutionrelative:test-clases\\clasecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseCliente.vb",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\ClaseCliente.vb",
+              "RelativeDocumentMoniker": "test-clases\\ClaseCliente.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\ClaseCliente.vb",
+              "RelativeToolTip": "test-clases\\ClaseCliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T21:49:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\Form1.vb",
+              "RelativeDocumentMoniker": "test-clases\\Form1.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\Form1.vb*",
+              "RelativeToolTip": "test-clases\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T21:47:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\Form1.vb",
+              "RelativeDocumentMoniker": "test-clases\\Form1.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\test-clases\\test-clases\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "test-clases\\Form1.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T21:45:37.398Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\Visual Estudio\source\repos\test-clases\test-clases\bin\Debug\test-clases.exe.config
+D:\Visual Estudio\source\repos\test-clases\test-clases\bin\Debug\test-clases.exe
+D:\Visual Estudio\source\repos\test-clases\test-clases\bin\Debug\test-clases.pdb
+D:\Visual Estudio\source\repos\test-clases\test-clases\bin\Debug\test-clases.xml
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.vbproj.AssemblyReference.cache
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test_clases.Form1.resources
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test_clases.Resources.resources
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.vbproj.GenerateResource.cache
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.vbproj.CoreCompileInputs.cache
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.exe
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.xml
+D:\Visual Estudio\source\repos\test-clases\test-clases\obj\Debug\test-clases.pdb
